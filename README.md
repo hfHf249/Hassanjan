@@ -1,5 +1,8 @@
 rm -rf Hassanjan
-git clone https://github.com/hfHf249/Hassanjan.git
+
+git clone https://github.com/hfHf249/Hassanja
 
 cd Hassanjan
-ls python KARIMI.py
+
+ls
+python KARIMI.py
